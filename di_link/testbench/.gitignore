@@ -1,0 +1,6 @@
+*.mti
+*.mpf
+transcript
+*.wlf
+work
+work/*
